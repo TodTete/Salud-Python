@@ -11,4 +11,4 @@ Este proyecto fue desarrollado como parte de una práctica escolar para proporci
 
 ## Autor
 
-Creado por **Ricardo Vallejo Sánchez**.
+Creado por **Ricardo Vallejo Sánchez** @TodTete
